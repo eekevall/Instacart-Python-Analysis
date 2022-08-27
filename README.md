@@ -1,2 +1,2 @@
 # Instacart-Python-Analysis
-Config files for my GitHub profile.
+A python analysis of the Instacart database for the CareerFoundry Data Analysis course
