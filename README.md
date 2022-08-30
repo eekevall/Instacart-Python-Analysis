@@ -36,13 +36,16 @@ The full analysis was carried out using the following **Python libraries** in Ju
 The results were then exported or copied into Excel.
 
 ### Data
-The Instacart project brief and datasets were provided by Career Foundry:<br>
+The Instacart project brief and original datasets were provided by Career Foundry.
+
 Instacart Project Brief: PDF file
 * [Instacart_Project_Brief.pdf](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/01_Project_Management/Instacart_Analysis_Project_Brief.pdf)
 
-The original datasets were provided as csv files.
-* [Customers](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/02_Data/02_1_Original_Data/customers.csv), Orders_products_prior, Orders, [Products](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/02_Data/02_1_Original_Data/products.csv),
-* [Departments](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/02_Data/02_1_Original_Data/departments.csv) (used to create a data dictionary which was mapped to the dataframe)
+The following csv files are in folder 02_Data/02_1_Original_Data
+* [Customers](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/02_Data/02_1_Original_Data/customers.csv), [Products](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/02_Data/02_1_Original_Data/products.csv), [Departments](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/02_Data/02_1_Original_Data/departments.csv) (used to create a data dictionary which was mapped to the dataframe)
+
+And the two larger csv files can be downloaded
+* [Orders_products_prior](https://drive.google.com/file/d/1Phw5ijub5khXtwYU7zCBvFmanmDiutIX/view?usp=sharing), [Orders](https://drive.google.com/file/d/1fiFWyVlIW1iQNeF5yrkA9ULI9cXT6jfW/view?usp=sharing) 
 
 #### The Instacart Population Flow Diagram
 ![Instacart Population Flow Diagram](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/Instacart_Population_Flow.png)
