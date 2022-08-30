@@ -1,5 +1,5 @@
 # Instacart-Python-Analysis
-A python analysis of the Instacart database for the CareerFoundry Data Analysis course using Jupyter Notebook.
+A python analysis of the Instacart database for the Career Foundry Data Analysis course using Jupyter Notebook.
 
 ## Project Overview
 Instacart, an online grocery store that operates through an app is considering a targeted marketing strategy. The stakeholders want to know more information about their sales patterns, especially the variety of customers in their database along with their purchasing behaviours.
