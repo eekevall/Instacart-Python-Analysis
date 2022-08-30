@@ -45,7 +45,7 @@ The original datasets (in the compressed folder - 02_Data/02_1_Original_Data) we
 * Departments (used to create a data dictionary which was mapped to the dataframe)
 
 #### The Instacart Population Flow Diagram
-
+![Instacart Population Flow Diagram](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/Instacart_Population_Flow.png)
 The grey boxes in the first row represent the four original datasets that were eventually merged into the final dataset Orders_products_all.<br>
 The second row of coloured boxes represent the datasets after the cleaning process.<br>
 The final row represents the datasets after each of the merges.<br>
