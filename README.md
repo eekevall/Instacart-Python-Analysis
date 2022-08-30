@@ -60,6 +60,6 @@ Instcart Analysis Final Report: Excel file
 Also available in pdf format
 * [Instcart_Analysis_Final_Report.pdf](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/05_Sent_to_Client/Instcart_Analysis_Final_Report.pdf)
 
-The two data files - Analysis_all_customers and Analysis_active_customers - that would have been in folder 05_Sent_to_Client, but are to large (1.94GB) can been downloaded along with the interactive treemap visualisations:
-* [Link to client files and interactive treemaps](https://drive.google.com/drive/folders/12VpzcqPIN2Tp2PKRvLKqhTJdel2N853D?usp=sharing)
+The two client data files - Analysis_all_customers and Analysis_active_customers - that would have been in folder 05_Sent_to_Client, but are to large (1.94GB) can been downloaded along with the interactive treemap visualisations:
+* Link to [client data files](https://drive.google.com/drive/folders/1GanmHISFNL-XtfQ2-6IQ3ZAKD1-Ts3_i?usp=sharing) and [interactive treemaps](https://drive.google.com/drive/folders/1Tg2-X1Od2aE1nNZ2QEthgkvkAk4wfeJI?usp=sharing)
 
