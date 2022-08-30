@@ -50,3 +50,13 @@ The grey boxes in the first row represent the four original datasets that were e
 The second row of coloured boxes represent the datasets after the cleaning process.<br>
 The final row represents the datasets after each of the merges.<br>
 
+### Documentation and Presentation of Findings
+Instcart Analysis Final Report: Excel file 
+* [Instcart_Analysis_Final_Report.xlsx](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/05_Sent_to_Client/Instcart_Analysis_Final_Report.xlsx)
+
+Also available in pdf format
+* [Instcart_Analysis_Final_Report.pdf](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/05_Sent_to_Client/Instcart_Analysis_Final_Report.pdf)
+
+The two data files - Analysis_all_customers and Analysis_active_customers - that would have been in folder 05_Sent_to_Client, but are to large (1.94GB) can been downloaded along with the interactive treemap visualisations using the following link below:
+* [Link to client files and interactive treemaps](https://drive.google.com/drive/folders/12VpzcqPIN2Tp2PKRvLKqhTJdel2N853D?usp=sharing)
+
