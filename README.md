@@ -36,9 +36,9 @@ The full analysis was carried out using the following **Python libraries** in Ju
 The results were then exported or copied into Excel.
 
 ### Data
-The Instacart project brief and datasets were provided by Career Foundry: 
+The Instacart project brief and datasets were provided by Career Foundry:<br>
 Instacart Project Brief: PDF file
-* Instacart_Project_Brief.pdf
+* [Instacart_Project_Brief.pdf](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/01_Project_Management/Instacart_Analysis_Project_Brief.pdf)
 
 The original datasets (in the compressed folder - 02_Data/02_1_Original_Data) were provided as csv files.
 * Customers, Orders_products_prior, Orders, Products,
