@@ -24,7 +24,7 @@ To address this objective and the key questions below the Instacart data sets we
 
 * Data cleaning, wrangling and consistency checks
 * Consider data ethics when dealing with customer information
-* Merge all datasets into a single dataset (over 32M records)
+* Merge all data sets into a single data set (over 32M records)
 * Conduct exploratory data analysis
 * Derive new variables and create flags (grouping and aggregating the data) to help with the analysis
 * Create visualizations communicating insights for stakeholders
@@ -36,7 +36,7 @@ The full analysis was carried out using the following **Python libraries** in Ju
 The results were then exported or copied into Excel.
 
 ### Data
-The Instacart project brief and original datasets were provided by Career Foundry.
+The Instacart project brief and original data sets were provided by Career Foundry.
 
 Instacart Project Brief: PDF file
 * [Instacart_Project_Brief.pdf](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/01_Project_Management/Instacart_Analysis_Project_Brief.pdf)
@@ -52,8 +52,8 @@ And the two larger csv files can be downloaded
 #### The Instacart Population Flow Diagram
 ![Instacart Population Flow Diagram](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/Instacart_Population_Flow.png)
 The grey boxes in the first row represent the four original datasets that were eventually merged into the final dataset Orders_products_all.<br>
-The second row of coloured boxes represent the datasets after the cleaning process.<br>
-The final row represents the datasets after each of the merges.<br>
+The second row of coloured boxes represent the data sets after the cleaning process.<br>
+The final row represents the data sets after each of the merges.<br>
 
 ### Report and Datasets Sent to Client
 Instcart Analysis Final Report: Excel file 
