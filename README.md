@@ -62,3 +62,9 @@ Also available in pdf format
 The two client data files - Analysis_all_customers and Analysis_active_customers - that would have been in folder 05_Sent_to_Client, but are too large (+8GB) can been downloaded along with the interactive treemap visualisations:
 * Link to [client data files](https://drive.google.com/drive/folders/1GanmHISFNL-XtfQ2-6IQ3ZAKD1-Ts3_i?usp=sharing) and [interactive treemaps](https://drive.google.com/drive/folders/1Tg2-X1Od2aE1nNZ2QEthgkvkAk4wfeJI?usp=sharing)
 
+## Project Recommendations
+* [Instacart_Analysis_Recommendations.pdf](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/Instacart_Recommendations/Instcart_Analysis_Recommendations.pdf)
+
+![Recommendations_Page1.png](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/Instacart_Recommendations/Recommendations_Page1.png)
+![Recommendations_Page2.png](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/Instacart_Recommendations/Recommendations_Page2.png)
+
