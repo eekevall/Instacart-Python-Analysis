@@ -43,7 +43,7 @@ The following csv files are in folder 02_Data/02_1_Original_Data
 * [Customers](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/02_Data/02_1_Original_Data/customers.csv), [Products](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/02_Data/02_1_Original_Data/products.csv), [Departments](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/02_Data/02_1_Original_Data/departments.csv) (used to create a data dictionary which was mapped to the dataframe)
 
 And the two larger csv files can be downloaded
-* [Orders_products_prior](https://drive.google.com/file/d/1Phw5ijub5khXtwYU7zCBvFmanmDiutIX/view?usp=sharing), [Orders](https://drive.google.com/file/d/1fiFWyVlIW1iQNeF5yrkA9ULI9cXT6jfW/view?usp=sharing) 
+* Link to [Orders_products_prior](https://drive.google.com/file/d/1Phw5ijub5khXtwYU7zCBvFmanmDiutIX/view?usp=sharing), [Orders](https://drive.google.com/file/d/1fiFWyVlIW1iQNeF5yrkA9ULI9cXT6jfW/view?usp=sharing) 
 
 ## Project Findings
 
