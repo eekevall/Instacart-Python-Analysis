@@ -47,6 +47,8 @@ The following csv files are in folder 02_Data/02_1_Original_Data
 And the two larger csv files can be downloaded
 * [Orders_products_prior](https://drive.google.com/file/d/1Phw5ijub5khXtwYU7zCBvFmanmDiutIX/view?usp=sharing), [Orders](https://drive.google.com/file/d/1fiFWyVlIW1iQNeF5yrkA9ULI9cXT6jfW/view?usp=sharing) 
 
+## Project Findings
+
 #### The Instacart Population Flow Diagram
 ![Instacart Population Flow Diagram](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/Instacart_Population_Flow.png)
 The grey boxes in the first row represent the four original datasets that were eventually merged into the final dataset Orders_products_all.<br>
