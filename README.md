@@ -49,7 +49,7 @@ And the two larger csv files can be downloaded
 
 #### The Instacart Population Flow Diagram
 ![Instacart Population Flow Diagram](https://github.com/eekevall/Instacart-Python-Analysis/blob/main/Instacart_Population_Flow.png)
-The grey boxes in the first row represent the four original datasets that were eventually merged into the final dataset Orders_products_all.<br>
+The grey boxes in the first row represent the four original data sets that were eventually merged into the final dataset Orders_products_all.<br>
 The second row of coloured boxes represent the data sets after the cleaning process.<br>
 The final row represents the data sets after each of the merges.<br>
 
