@@ -27,7 +27,7 @@ To address this objective and the key questions below the Instacart data sets we
 * Merge all data sets into a single data set (over 32M records)
 * Conduct exploratory data analysis
 * Derive new variables and create flags (grouping and aggregating the data) to help with the analysis
-* Create visualizations communicating insights for stakeholders
+* Create visualisations communicating insights for stakeholders
 
 ### Tools
 The full analysis was carried out using the following **Python libraries** in Jupyter Notebook:
